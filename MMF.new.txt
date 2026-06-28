@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Israel Finance and Mortgage Company</title>
+    <meta name="description" content="Moville Mortgage & Finance helps clients navigate mortgages and property financing in Israel.">
+    <link rel="stylesheet" href="assets/css/styles.css">
+  </head>
+  <body>
+    <header>
+      <div class="topbar">
+        <div class="topbar-inner">
+          <a class="logo" href="index.html" aria-label="Moville Mortgage and Finance home">
+            <img src="https://static.wixstatic.com/media/683a98_69417a2a31e76ea6e9c3d2ca92005860.jpg/v1/fill/w_201,h_68,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/683a98_69417a2a31e76ea6e9c3d2ca92005860.jpg" alt="Moville Mortgage and Finance">
+          </a>
+          <div class="contact-strip">
+            <span>Contact: IL</span>
+            <a href="tel:+972737962226">054 522 6701</a>
+            <span>|</span>
+            <span>US</span>
+            <a href="tel:+12013773418">(208) 668-4553</a>
+            <a href="https://www.linkedin.com/company/moville-mortgage-&-finance/" aria-label="LinkedIn">
+              <img class="social-icon" src="https://static.wixstatic.com/media/48a2a42b19814efaa824450f23e8a253.png/v1/fill/w_25,h_25,al_c,q_85,enc_avif,quality_auto/48a2a42b19814efaa824450f23e8a253.png" alt="">
+            </a>
+            <a href="https://www.facebook.com/Moville-Mortgage-%20Finance-141629142652921/?epa=SEARCH_BOX" aria-label="Facebook">
+              <img class="social-icon" src="https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_25,h_25,al_c,q_85,enc_avif,quality_auto/e316f544f9094143b9eac01f1f19e697.png" alt="">
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="main-nav-wrap">
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav class="site-nav" id="site-nav" aria-label="Main navigation">
+          <a class="active" href="index.html">Home</a>
+          <a href="about.html">About Us</a>
+          <a href="services.html">Services</a>
+          <a href="index.html#testimonials">Testimonials</a>
+          <a href="application.html">Apply Now</a>
+          <a href="contact.html">Contact Us</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero">
+        <div>
+          <h1>Moville Mortgage<br>&amp; Finance ltd</h1>
+          <p>We guide you from the moment you make the decision you want to buy a property in Israel (this can be long before you have actually found a property)</p>
+          <a class="wix-button" href="application.html">Apply Now</a>
+        </div>
+      </section>
+
+      <section class="section lead-block center">
+        <div class="section-inner">
+          <h2>If you're thinking about a mortgage in Israel</h2>
+          <p>It's never too early to apply! Find out if you're qualified for a mortgage by filling out our initial form</p>
+          <a class="wix-button" href="application.html">Find Out Here</a>
+        </div>
+      </section>
+
+      <section class="section services-preview">
+        <div class="section-inner">
+          <div class="service-grid">
+            <a class="service-card" href="services.html">
+              <img src="https://static.wixstatic.com/media/04af08_519bbc1abef941d7a993b46fd6f8f1b2~mv2.png/v1/fill/w_98,h_104,al_c,q_85,enc_avif,quality_auto/Asset%202_4x.png" alt="">
+              <h3>Residential Purchases</h3>
+              <p>We'll guide you through the entire process - before you have a property until after you've acquired it.</p>
+            </a>
+            <a class="service-card" href="services.html">
+              <img src="https://static.wixstatic.com/media/04af08_713c9c2ff2044b0fbc7e1a633a0fe860~mv2.png/v1/fill/w_105,h_105,al_c,q_85,enc_avif,quality_auto/Asset%203_4x.png" alt="">
+              <h3>Residential Refinancing</h3>
+              <p>We are here to help we can help you assess what is right for you and carry out the entire transaction for you.</p>
+            </a>
+            <a class="service-card" href="services.html">
+              <img src="https://static.wixstatic.com/media/04af08_36517707d94d4fdf97a8ba91f5b1dfb2~mv2.png/v1/fill/w_100,h_101,al_c,q_85,enc_avif,quality_auto/Asset%201_4x.png" alt="">
+              <h3>Construction Financing</h3>
+              <p>We can help you assess the leverage possible, schedule of payments as well as many other aspects.</p>
+            </a>
+            <a class="service-card" href="services.html">
+              <img src="https://static.wixstatic.com/media/04af08_1a59961685e94430b840b0a84099848b~mv2.png/v1/fill/w_103,h_103,al_c,q_85,enc_avif,quality_auto/Asset%204_4x.png" alt="">
+              <h3>Commercial Real Estate</h3>
+              <p>When it comes to commercial real estate we have experience in all aspects of the market.</p>
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="section testimonial-section center" id="testimonials">
+        <div class="section-inner">
+          <h2>Hear what our clients have to say</h2>
+          <div class="testimonial-placeholder">
+             </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="footer-social">
+        <a href="https://il.linkedin.com/in/moshewilshinsky" aria-label="LinkedIn"><img class="social-icon" src="https://static.wixstatic.com/media/48a2a42b19814efaa824450f23e8a253.png/v1/fill/w_20,h_20,al_c,q_85,enc_avif,quality_auto/48a2a42b19814efaa824450f23e8a253.png" alt=""></a>
+        <a href="https://www.facebook.com/Moville-Mortgage-%20Finance-141629142652921/?epa=SEARCH_BOX" aria-label="Facebook"><img class="social-icon" src="https://static.wixstatic.com/media/e316f544f9094143b9eac01f1f19e697.png/v1/fill/w_20,h_20,al_c,q_85,enc_avif,quality_auto/e316f544f9094143b9eac01f1f19e697.png" alt=""></a>
+      </div>
+      <p>Moville Finance | Copyright 2025</p>
+      <nav class="footer-nav" aria-label="Footer navigation">
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="services.html">Services</a>
+        <a href="index.html#testimonials">Testimonials</a>
+        <a href="application.html">Apply Now</a>
+        <a href="contact.html">Contact Us</a>
+      </nav>
+    </footer>
+
+    <script src="assets/js/main.js"></script>
+  </body>
+</html>
